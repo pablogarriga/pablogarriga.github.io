@@ -30,7 +30,6 @@ title: Research
 (with Pierre Bachas, Anne Brockmeyer, Camille Semelet)
 
 - Coverage: [Economics Observatory](https://www.economicsobservatory.com/how-does-lockdown-affect-firms-developing-countries) and [UCL Stone Centre](https://www.stone-econ.org/research/the-impact-of-covid-19-on-formal-firms-micro-tax-data-simulations-across-countries)
-- We are currently updating the paper to compare our simulations to the realized impact of COVID-19
 
 <p align="justify">Most low-income countries lack high-frequency firm-level data to monitor the effect of economic shocks in real time. We examine whether administrative tax data can help fill this gap, in the context of the COVID-19 pandemic. In spring 2020, we used the full population of corporate tax returns for 2019 in six developing countries to predict the effect of COVID-induced shocks on formal firms' activity. Comparing the predictions to the realized 2020 data, we find that firms were more resilient than predicted: the share of unprofitable firms increased by only 7 percentage points, while aggregate profits and taxes paid remained stable. The simulations failed to anticipate that labor and capital inputs would flexibly adjust and that large firms would be very resilient. Complementing our simulations with higher-frequency VAT data would have markedly improved predictions.</p>
 
