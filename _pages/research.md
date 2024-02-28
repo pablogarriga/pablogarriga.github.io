@@ -14,6 +14,22 @@ title: Research
 
 <p align="justify">We show that delegating tax collection duties to large firms can bolster tax capacity in weak-enforcement settings. We exploit two reforms in Argentina that dramatically <em>expanded</em> and subsequently <em>reduced</em> turnover tax withholding by firms. Combining firm-to-firm data with regression discontinuity and difference-in-differences methods centered on revenue eligibility thresholds, we find that: (i) appointing large firms as collection agents (CAs) does not hinder their economic activity, (ii) it leads to a significant increase in self-reported sales and tax payments among CAs' business partners, (iii) these effects are primarily concentrated among downstream firms that lack a traceable paper trail, and (iv) reductions in withholding lead to a decrease in self-reported sales, albeit to a lesser extent. Tax-collecting firms can thus help boost tax compliance and revenue.</p>
 
+<!--
+<div style="display: flex;">
+    <div style="flex: 1;">
+        ![Image](/images/bunching.jpg)
+    </div>
+    <div style="flex: 1;">
+        <p align="justify">We show that delegating tax collection duties to large firms can bolster tax capacity in weak-enforcement settings. We exploit two reforms in Argentina that dramatically <em>expanded</em> and subsequently <em>reduced</em> turnover tax withholding by firms. Combining firm-to-firm data with regression discontinuity and difference-in-differences methods centered on revenue eligibility thresholds, we find that: (i) appointing large firms as collection agents (CAs) does not hinder their economic activity, (ii) it leads to a significant increase in self-reported sales and tax payments among CAs' business partners, (iii) these effects are primarily concentrated among downstream firms that lack a traceable paper trail, and (iv) reductions in withholding lead to a decrease in self-reported sales, albeit to a lesser extent. Tax-collecting firms can thus help boost tax compliance and revenue.</p>
+    </div>
+</div>
+
+<details>
+  <summary>Abstract</summary>
+  We show that delegating tax collection duties to large firms can bolster tax capacity in weak-enforcement settings. We exploit two reforms in Argentina that dramatically <em>expanded</em> and subsequently <em>reduced</em> turnover tax withholding by firms. Combining firm-to-firm data with regression discontinuity and difference-in-differences methods centered on revenue eligibility thresholds, we find that: (i) appointing large firms as collection agents (CAs) does not hinder their economic activity, (ii) it leads to a significant increase in self-reported sales and tax payments among CAs' business partners, (iii) these effects are primarily concentrated among downstream firms that lack a traceable paper trail, and (iv) reductions in withholding lead to a decrease in self-reported sales, albeit to a lesser extent. Tax-collecting firms can thus help boost tax compliance and revenue.
+</details>
+-->
+
 ### Working Papers
 
 ---
