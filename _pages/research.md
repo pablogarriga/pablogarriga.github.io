@@ -8,11 +8,8 @@ title: Research
 ---
 **Firms as Tax Collectors**
 (with Darío Tortarolo), *Journal of Public Economics*, May 2024, 233: 105092.
-[[Paper]](https://doi.org/10.1016/j.jpubeco.2024.105092) | [[Working Paper]](https://ifs.org.uk/publications/firms-tax-collectors)
+[[Paper]](https://doi.org/10.1016/j.jpubeco.2024.105092) | [[Working Paper]](https://ifs.org.uk/publications/firms-tax-collectors) | [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/improving-tax-administration-and-compliance-appointing-firms-withholding-agents)
  <!-- | [[Slides]]()  -->
-
-- Winner of the [2022 ITAX PhD Student Award](https://www.iipf.org/itaxaward.html)
-- Coverage: [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/improving-tax-administration-and-compliance-appointing-firms-withholding-agents)
 
 <p align="justify">We show that delegating tax collection duties to large firms can bolster tax capacity in weak-enforcement settings. We exploit two reforms in Argentina that dramatically <em>expanded</em> and subsequently <em>reduced</em> turnover tax withholding by firms. Combining firm-to-firm data with regression discontinuity and difference-in-differences methods centered on revenue eligibility thresholds, we find that: (i) appointing large firms as collection agents (CAs) does not hinder their economic activity, (ii) it leads to a significant increase in self-reported sales and tax payments among CAs' business partners, (iii) these effects are primarily concentrated among downstream firms that lack a traceable paper trail, and (iv) reductions in withholding lead to a decrease in self-reported sales, albeit to a lesser extent. Tax-collecting firms can thus help boost tax compliance and revenue.</p>
 
@@ -38,9 +35,6 @@ title: Research
 ---
 **Payments Under the Table in Latin America**
 (with Javier Feinmann, Ana Paula Franco, and Nathalie Gonzalez-Prieto, Roberto Hsu, Maximiliano Lauletta)
-
-- Winner of the [2023 ECA Academy](https://www.worldbank.org/en/region/eca/brief/ecace-academy)
-- Coverage: [World Bank Development Impact Blog](https://blogs.worldbank.org/developmenttalk/burden-complexity-understanding-challenges-lithuanias-tax-system)
 
 <p align="justify">This paper investigates a neglected aspect of informality in Latin America—Payments Under the Table (PUT), where registered firms make off-the-books salary payments to registered employees. We conduct the first multi-country large-scale survey on this topic, covering Argentina, Brazil, Chile, Colombia, and Mexico. Out of the more than 20,000 formal workers surveyed, our results indicate that 17% of them receive some part of their compensation under the table. Among PUT receivers, on average, 24% of their labor earnings are paid off the books. We then provide insights into the mechanics and motivations behind PUT and analyze policy implications. By shedding light on this overlooked dimension, the study contributes to a more comprehensive understanding of informality's role in Latin American economic development.</p>
 
