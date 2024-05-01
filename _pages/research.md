@@ -8,6 +8,7 @@ title: Research
 ---
 **Firms as Tax Collectors**
 (with Darío Tortarolo), *Journal of Public Economics*, May 2024, 233: 105092.
+
 [[Paper]](https://doi.org/10.1016/j.jpubeco.2024.105092) | [[Working Paper]](https://ifs.org.uk/publications/firms-tax-collectors) | [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/improving-tax-administration-and-compliance-appointing-firms-withholding-agents)
  <!-- | [[Slides]]()  -->
 
