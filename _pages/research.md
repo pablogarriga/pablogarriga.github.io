@@ -9,7 +9,7 @@ title: Research
 **Firms as Tax Collectors**
 (with Darío Tortarolo), *Journal of Public Economics*, May 2024, 233: 105092.
 
-[[Paper]](https://doi.org/10.1016/j.jpubeco.2024.105092) | [[Working Paper]](https://ifs.org.uk/publications/firms-tax-collectors) | [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/improving-tax-administration-and-compliance-appointing-firms-withholding-agents)
+[[Paper]](https://doi.org/10.1016/j.jpubeco.2024.105092) | [[Working Paper]](https://ifs.org.uk/publications/firms-tax-collectors) | [[World Bank Development Impact Blog]](https://blogs.worldbank.org/impactevaluations/improving-tax-administration-and-compliance-appointing-firms-withholding-agents)
  <!-- | [[Slides]]()  -->
 
 <p align="justify">We show that delegating tax collection duties to large firms can bolster tax capacity in weak-enforcement settings. We exploit two reforms in Argentina that dramatically <em>expanded</em> and subsequently <em>reduced</em> turnover tax withholding by firms. Combining firm-to-firm data with regression discontinuity and difference-in-differences methods centered on revenue eligibility thresholds, we find that: (i) appointing large firms as collection agents (CAs) does not hinder their economic activity, (ii) it leads to a significant increase in self-reported sales and tax payments among CAs' business partners, (iii) these effects are primarily concentrated among downstream firms that lack a traceable paper trail, and (iv) reductions in withholding lead to a decrease in self-reported sales, albeit to a lesser extent. Tax-collecting firms can thus help boost tax compliance and revenue.</p>
