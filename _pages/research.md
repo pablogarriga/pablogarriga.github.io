@@ -6,9 +6,12 @@ title: Research
 ### Publications
 
 ---
-**[Firms as Tax Collectors](https://pablogarriga.github.io/files/firms-as-tax-collectors.pdf)** — *Accepted for publication at Journal of Public Economics*  
-(with Darío Tortarolo)
+**Firms as Tax Collectors**
+(with Darío Tortarolo), *Journal of Public Economics*, May 2024, 233: 105092.
+[[Paper]](https://doi.org/10.1016/j.jpubeco.2024.105092) | [[Working Paper]](https://ifs.org.uk/publications/firms-tax-collectors)
+ <!-- | [[Slides]]()  -->
 
+- Access 
 - Winner of the [2022 ITAX PhD Student Award](https://www.iipf.org/itaxaward.html)
 - Coverage: [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/improving-tax-administration-and-compliance-appointing-firms-withholding-agents)
 
@@ -32,6 +35,15 @@ title: Research
 -->
 
 ### Working Papers
+
+---
+**Payments Under the Table in Latin America**
+(with Javier Feinmann, Ana Paula Franco, and Nathalie Gonzalez-Prieto, Roberto Hsu, Maximiliano Lauletta)
+
+- Winner of the [2023 ECA Academy](https://www.worldbank.org/en/region/eca/brief/ecace-academy)
+- Coverage: [World Bank Development Impact Blog](https://blogs.worldbank.org/developmenttalk/burden-complexity-understanding-challenges-lithuanias-tax-system)
+
+<p align="justify">This paper investigates a neglected aspect of informality in Latin America—Payments Under the Table (PUT), where registered firms make off-the-books salary payments to registered employees. We conduct the first multi-country large-scale survey on this topic, covering Argentina, Brazil, Chile, Colombia, and Mexico. Out of the more than 20,000 formal workers surveyed, our results indicate that 17% of them receive some part of their compensation under the table. Among PUT receivers, on average, 24% of their labor earnings are paid off the books. We then provide insights into the mechanics and motivations behind PUT and analyze policy implications. By shedding light on this overlooked dimension, the study contributes to a more comprehensive understanding of informality's role in Latin American economic development.</p>
 
 ---
 **[Corporate Responses to Size-Based Tax Rates in Lithuania](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099313106262317603/idu0e3c1b6c300a6c045390bb860c3c2931a384f)** — *World Bank Policy Research working paper n. WPS 10500*  
