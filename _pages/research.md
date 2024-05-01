@@ -11,7 +11,6 @@ title: Research
 [[Paper]](https://doi.org/10.1016/j.jpubeco.2024.105092) | [[Working Paper]](https://ifs.org.uk/publications/firms-tax-collectors)
  <!-- | [[Slides]]()  -->
 
-- Access 
 - Winner of the [2022 ITAX PhD Student Award](https://www.iipf.org/itaxaward.html)
 - Coverage: [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/improving-tax-administration-and-compliance-appointing-firms-withholding-agents)
 
