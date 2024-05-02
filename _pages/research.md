@@ -35,7 +35,7 @@ title: Research
 
 ---
 **Payments Under the Table in Latin America**
-(with Javier Feinmann, Ana Paula Franco, and Nathalie Gonzalez-Prieto, Roberto Hsu, Maximiliano Lauletta)
+(with Javier Feinmann, Ana Paula Franco, Nathalie Gonzalez-Prieto, Roberto Hsu, Maximiliano Lauletta)
 
 <p align="justify">This paper investigates a neglected aspect of informality in Latin America—Payments Under the Table (PUT), where registered firms make off-the-books salary payments to registered employees. We conduct the first multi-country large-scale survey on this topic, covering Argentina, Brazil, Chile, Colombia, and Mexico. Out of the more than 20,000 formal workers surveyed, our results indicate that 17% of them receive some part of their compensation under the table. Among PUT receivers, on average, 24% of their labor earnings are paid off the books. We then provide insights into the mechanics and motivations behind PUT and analyze policy implications. By shedding light on this overlooked dimension, the study contributes to a more comprehensive understanding of informality's role in Latin American economic development.</p>
 
