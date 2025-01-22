@@ -6,6 +6,15 @@ title: Research
 ### Publications
 
 ---
+**[The Impact of COVID-19 on Formal Firms: Lessons from Administrative Tax Data](https://pablogarriga.github.io/files/covid19-firm-impacts.pdf)**
+(with Pierre Bachas, Anne Brockmeyer, Camille Semelet), *Forthcoming, Journal of Development Economics.*
+
+
+- Coverage: [Economics Observatory](https://www.economicsobservatory.com/how-does-lockdown-affect-firms-developing-countries) and [UCL Stone Centre](https://www.stone-econ.org/research/the-impact-of-covid-19-on-formal-firms-micro-tax-data-simulations-across-countries)
+
+<p align="justify">Most low-income countries lack high-frequency firm-level data to monitor the effect of economic shocks in real time. We examine whether administrative tax data can help fill this gap, in the context of the COVID-19 pandemic. In spring 2020, we used the full population of corporate tax returns for 2019 in six developing countries to predict the effect of COVID-induced shocks on formal firms' activity. Comparing the predictions to the realized 2020 data, we find that firms were more resilient than predicted: the share of unprofitable firms increased by only 7 percentage points, while aggregate profits and taxes paid remained stable. The simulations failed to anticipate that labor and capital inputs would flexibly adjust and that large firms would be very resilient. Complementing our simulations with higher-frequency VAT data would have markedly improved predictions.</p>
+
+---
 **Firms as Tax Collectors**
 (with Darío Tortarolo), *Journal of Public Economics*, May 2024, 233: 105092.
 
@@ -41,14 +50,6 @@ title: Research
 - Coverage: [World Bank Development Impact Blog](https://blogs.worldbank.org/developmenttalk/burden-complexity-understanding-challenges-lithuanias-tax-system)
 
 <p align="justify">This paper studies how firms respond to differential, size-based tax rates using administrative tax data in Lithuania. Exploiting a notch in the tax schedule faced by corporations, it documents strong behavioral responses to tax incentives—revenue elasticity is estimated at 0.35 and cost elasticity at -1.3, implying a large total profit elasticity of 7.4. It then leverages the panel structure of the data to provide insights on the dynamic effects of these tax incentives. Firms located close to but below the notch report systematically lower revenue growth in the short term, but the effects dissipate over time.</p>
-
----
-**[The Impact of COVID-19 on Formal Firms: Lessons from Administrative Tax Data](https://pablogarriga.github.io/files/covid19-firm-impacts.pdf)** — *Revise & Resubmit, Journal of Development Economics*
-(with Pierre Bachas, Anne Brockmeyer, Camille Semelet)
-
-- Coverage: [Economics Observatory](https://www.economicsobservatory.com/how-does-lockdown-affect-firms-developing-countries) and [UCL Stone Centre](https://www.stone-econ.org/research/the-impact-of-covid-19-on-formal-firms-micro-tax-data-simulations-across-countries)
-
-<p align="justify">Most low-income countries lack high-frequency firm-level data to monitor the effect of economic shocks in real time. We examine whether administrative tax data can help fill this gap, in the context of the COVID-19 pandemic. In spring 2020, we used the full population of corporate tax returns for 2019 in six developing countries to predict the effect of COVID-induced shocks on formal firms' activity. Comparing the predictions to the realized 2020 data, we find that firms were more resilient than predicted: the share of unprofitable firms increased by only 7 percentage points, while aggregate profits and taxes paid remained stable. The simulations failed to anticipate that labor and capital inputs would flexibly adjust and that large firms would be very resilient. Complementing our simulations with higher-frequency VAT data would have markedly improved predictions.</p>
 
 ---
 **[Robots, Exports and Top Income Inequality: Evidence for the U.S.](https://www.cedlas.econo.unlp.edu.ar/wp/en/no-307/)** — *CEDLAS working paper n. 0307*  
