@@ -14,4 +14,7 @@ nav_order: 1
   <h2>Publications</h2>
   {% bibliography -g none -q @*[group=Publications]* %}
 
+  <h2>Policy reports</h2>
+  {% bibliography -g none -q @*[group=Policy reports]* %}
+  
 </div>
