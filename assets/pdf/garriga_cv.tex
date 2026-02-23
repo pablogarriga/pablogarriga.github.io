@@ -1,0 +1,164 @@
+\documentclass[a4paper,11pt]{article}
+\usepackage[bottom=0.8in,top=0.8in, left=0.8in,right=0.8in]{geometry}
+
+%A Few Useful Packages
+\usepackage[T1]{fontenc}
+\usepackage{mathpazo}
+\usepackage{parskip}
+\usepackage{titlesec}	
+\usepackage{multirow}
+\usepackage{graphicx}
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage[pdftitle=CV,pdfauthor=Pablo Garriga,pdfdisplaydoctitle]{hyperref}
+\usepackage{enumitem} %reduce spacing in itemize
+\setlist[itemize]{itemsep=0pt, topsep=0pt}
+
+\definecolor{myblue}{RGB}{45,99,165}
+% \hypersetup{colorlinks,breaklinks,urlcolor={myblue!90}, linkcolor={myblue!90}}
+\hypersetup{colorlinks,breaklinks,urlcolor={black!90}, linkcolor={black!90}}
+
+\usepackage{datetime}
+\newdateformat{monthyeardate}{\monthname[\THEMONTH] \THEYEAR}
+
+% non-numbered pages
+\pagestyle{empty} 
+
+% line spacing
+\linespread{1}
+
+% section reformatting
+% \titleformat{\section}{\color{myblue} \large}{}{0em}{}[\color{black}]
+\titleformat{\section}{\bfseries\large}{}{0em}{}[\color{black}]
+\titlespacing{\section}{0pt}{3pt}{3pt}
+
+\newcommand{\sectitle}[1]{
+    \vspace{1.5ex}
+    \section{#1}
+    \vspace{-2.5ex}
+    \noindent\rule{\textwidth}{0.5pt}
+    \vspace{-4ex}
+}
+
+%-------------------- Begin document ----------------------
+\begin{document}
+
+%-------------------- Header ----------------------
+
+\begin{minipage}{\textwidth}
+    \vspace{7ex}
+        \par{
+        \centering
+        \vspace{-0.9in}
+            % \textcolor{myblue}{\Large Pablo Garriga}
+            \textbf{{\Large Pablo Garriga}}
+
+            \href{mailto:pgarriga@worldbank.org}{pgarriga@worldbank.org} \,$\cdot$\, \href{https://pablogarriga.github.io/}{pablogarriga.github.io}
+            
+        \par}
+\end{minipage}
+
+%-------------------- SECTIONS ----------------------
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\sectitle{Current Appointment}
+
+Economist, The World Bank \hfill August 2022\\
+\href{https://www.worldbank.org/en/region/lac/brief/lac-chief-economist}{Office of the Chief Economist for Latin America and the Caribbean}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\sectitle{Education}
+
+Brown University
+\begin{itemize}
+    \item[] Ph.D., Economics \hfill 2022
+    \item[] M.A., Economics \hfill 2017
+\end{itemize}
+
+Universidad Nacional de La Plata, Argentina
+\begin{itemize}
+    \item[] M.A., Economics \hfill 2015
+    \item[] B.S., Economics \hfill 2011
+\end{itemize}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\sectitle{Publications}
+
+\href{https://doi.org/10.1016/j.jdeveco.2025.103461}{The Impact of COVID-19 on Formal Firms: Micro Tax Data Simulations across Countries}
+(with Pierre Bachas, Anne Brockmeyer and Camille Semelet). Journal of Development Economics. June 2025, 175: 103461.
+
+\href{https://doi.org/10.1016/j.jpubeco.2024.105092}{Firms as Tax Collectors}
+(with Darío Tortarolo). Journal of Public Economics, May 2024, 233: 105092.
+
+\href{https://pablogarriga.github.io/files/sgp.pdf}{Exports of Argentina and Brazil under the Generalized System of Preferences} (with Facundo Albornoz and Irene Brambilla). Ensayos Económicos, 1(74), pp. 27-55 (2016).
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\sectitle{Working Papers}
+
+\href{https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099313106262317603/idu0e3c1b6c300a6c045390bb860c3c2931a384f}{Corporate Responses to Size-Based Tax Rates in Lithuania} (with Thiago Scot).
+
+\href{https://www.cedlas.econo.unlp.edu.ar/wp/en/no-307/}{Robots, Exports and Top Income Inequality: Evidence for the U.S.}
+(with Andrés César and Guillermo Falcone).
+
+% \href{https://pablogarriga.github.io/files/tax-preparers.pdf}{Tax Filings vs Tax Withholdings: Behavioral Responses from Firms and Tax Preparers} (with Darío Tortarolo).
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\sectitle{Professional Service}
+
+\begin{itemize}
+    \item Referee: American Economic Journal: Economic Policy, Economic Systems, Fiscal Studies, International Tax and Public Finance
+    \item Scientific committee at the World Bank/IFS/ODI Tax Conference (2023, 2024)
+\end{itemize}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\sectitle{Presentations}
+
+2024 --- 
+\href{https://csef.it/events/seminars/#p-spring-2024-seminars}{CSEF–University of Naples Federico II},
+80th IIPF Conference
+
+2023 --- 
+\href{https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww.taxobservatory.eu.mcas.ms%2Fevent%2Fthe-economics-of-taxation%2F%3FMcasTsid%3D20893&McasCSRF=5ba3d86c28f14735db38be157f59c05c3f0ff2d9cf16409c0cb1934f7b1bf41c}{EU Tax Observatory Workshop on the Economics of Taxation}, 
+\href{https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Foxfordtax.sbs.ox.ac.uk.mcas.ms%2Fevent%2Fannual-academic-symposium-2023%3FMcasTsid%3D20893&McasCSRF=5ba3d86c28f14735db38be157f59c05c3f0ff2d9cf16409c0cb1934f7b1bf41c}{Oxford University Centre for Business Taxation Summer Symposium}, 
+\href{https://www.conftool.pro/iipf2023/index.php?page=browseSessions&presentations=show&search=Garriga}{79th IIPF Conference}.
+
+2022 --- 
+\href{https://sites.google.com/a/umn.edu/miedc/}{19th Midwest International Economic Development Conference}, 
+\href{https://www.iipf.org/congress2022.htm}{78th IIPF Conference}, 
+Applied Micro Seminar at George Washington University, 
+PhD Global Tax Symposium at McGill University.
+
+2021 --- 
+Brown University Applied Microeconomics Lunch Seminar, 
+\href{https://www.nber.org/conferences/business-taxation-federal-system-fall-2021}{NBER Business Taxation in a Federal System}, 
+\href{https://aaep.org.ar/reuniones-anuales-aaep/lvi-reunion-anual-buenos-aires/}{56th AAEP Annual Meeting}, 
+\href{https://www.econ.uzh.ch/dam/jcr:c4ffd510-e423-45db-bf6f-a0c4a465bf8b/Program%20CED_2021.pdf}{6th Zurich Conference on Public Finance in Developing Countries}.
+\pagebreak
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\sectitle{Awards and Scholarships}
+
+\href{https://www.worldbank.org/en/region/eca/brief/ecace-academy}{2023 ECA Academy, World Bank} \hfill 2023
+
+\href{https://www.iipf.org/itaxaward.html}{ITAX PhD Student Award at IIPF} \hfill 2022
+
+Graduate Student Scholarship, Brown University \hfill 2018 --- 2021
+
+Fulbright Fellowship \hfill 2016 --- 2017
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \sectitle{Refereeing Activity}
+
+% International Tax and Public Finance
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \sectitle{Program Committee}
+
+% Scientific committee at the WB tax conf
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+% \sectitle{Last updated}
+\vfill
+\begin{center}
+    Last updated: \monthyeardate\today
+\end{center}
+
+\end{document}
