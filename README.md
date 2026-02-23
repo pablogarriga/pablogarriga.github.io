@@ -31,8 +31,35 @@ bundle exec jekyll serve
 Open: http://127.0.0.1:4000
 
 If needed:
+
 - Port conflict: `bundle exec jekyll serve --port 5000`
 - Bundler mismatch: `gem install bundler -v 4.0.4`
+
+## Run Prettier locally (to match GitHub Actions)
+
+Install once:
+
+```sh
+cd /Users/pablo/github/pablogarriga.github.io
+npm install --save-dev prettier @shopify/prettier-plugin-liquid
+```
+
+Check formatting (same as CI):
+
+```sh
+npx prettier . --check
+```
+
+Auto-fix formatting:
+
+```sh
+npx prettier . --write
+```
+
+Common issues:
+
+- CI fails with `Code style issues found ...`: run `npx prettier . --write`, then commit and push.
+- Error `Cannot find package '@shopify/prettier-plugin-liquid'`: install dependencies with the `npm install` command above.
 
 ## Research page customizations
 
@@ -54,6 +81,7 @@ File: `/Users/pablo/github/pablogarriga.github.io/_pages/research.md`
 ```
 
 Grouping options:
+
 - No year headings: `-g none`
 - Group by year: `-g year`
 - Group by custom BibTeX field: `-g group`
@@ -70,6 +98,7 @@ File: `/Users/pablo/github/pablogarriga.github.io/_bibliography/papers.bib`
 File: `/Users/pablo/github/pablogarriga.github.io/_bibliography/papers.bib`
 
 Example:
+
 ```bibtex
 preview={collection-agents.png},
 ```

@@ -23,7 +23,7 @@ latest_posts:
 
 Hello!
 
-I am a Research Economist at the [Office of the Chief Economist, Latin America and the Caribbean](https://www.worldbank.org/en/region/lac/brief/lac-chief-economist) of The World Bank. 
+I am a Research Economist at the [Office of the Chief Economist, Latin America and the Caribbean](https://www.worldbank.org/en/region/lac/brief/lac-chief-economist) of The World Bank.
 
 Primary research fields: public finance and development.
 
