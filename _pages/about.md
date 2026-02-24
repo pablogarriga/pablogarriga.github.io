@@ -23,15 +23,7 @@ latest_posts:
 
 Hello!
 
-I am a Research Economist at the [Office of the Chief Economist, Latin America and the Caribbean](https://www.worldbank.org/en/region/lac/brief/lac-chief-economist) of The World Bank.
-
-Primary research fields: public finance and development.
-
-Education:
-
-Ph.D. in Economics from Brown University, 2022.
-
-M.A. and B.S. in Economics from UNLP, Argentina.
+I am a Research Economist at the [Office of the Chief Economist, Latin America and the Caribbean](https://www.worldbank.org/en/region/lac/brief/lac-chief-economist) of The World Bank. I am also a member of [DaTax](https://www.worldbank.org/en/programs/datax-lab), a Lab to study taxes, firms and jobs using micro data. My primary research interests are public finance and development economics.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
