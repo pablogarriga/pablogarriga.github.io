@@ -1,34 +1,67 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Albornoz":
+  - firstname: ["Facundo"]
+    url: https://sites.google.com/view/facundoalbornoz/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Bachas":
+  - firstname: ["Pierre"]
+    url: https://pierrebachas.weebly.com/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Bilicka":
+  - firstname: ["Katarzyna"]
+    url: https://www.katarzynabilicka.com/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Brambilla":
+  - firstname: ["Irene"]
+    url: https://sites.google.com/site/irenebrambilla/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Brockmeyer":
+  - firstname: ["Anne"]
+    url: https://www.annebrockmeyer.com/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Falcone":
+  - firstname: ["Guillermo"]
+    url: https://ideas.repec.org/f/pfa1298.html
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Finamor":
+  - firstname: ["Lucas"]
+    url: https://economics.yale.edu/people/lucas-finamor
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Franco":
+  - firstname: ["Ana Paula"]
+    url: https://www.apfrancocarruitero.com/
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Gonzalez-Prieto":
+  - firstname: ["Nathalie"]
+    url: https://sites.google.com/view/nathalie-gonzalez-prieto/
+
+"Lauletta":
+  - firstname: ["Maximiliano"]
+    url: https://sites.google.com/view/lauletta/
+
+"Maloney":
+  - firstname: ["William F.", "William"]
+    url: https://www.worldbank.org/en/about/people/w/william-f-maloney
+
+"Morales Lema":
+  - firstname: ["Raul", "Raúl"]
+    url: https://www.raul-morales.com/
+
+"Scot":
+  - firstname: ["Thiago"]
+    url: https://sites.google.com/view/thiagoscot/
+
+"Seegert":
+  - firstname: ["Nathan"]
+    url: https://nathanseegert.com/
+
+"Semelet":
+  - firstname: ["Camille"]
+    url: https://camillesemelet.github.io/
+
+"Tortarolo":
+  - firstname: ["Dario", "Darío"]
+    url: https://economics.dtortarolo.com.ar/
+
+"Vuletin":
+  - firstname: ["Guillermo"]
+    url: https://www.brookings.edu/people/guillermo-vuletin/
