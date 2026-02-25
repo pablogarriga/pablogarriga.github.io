@@ -1,67 +1,79 @@
-"Albornoz":
+"albornoz":
   - firstname: ["Facundo"]
     url: https://sites.google.com/view/facundoalbornoz/
 
-"Bachas":
+"bachas":
   - firstname: ["Pierre"]
     url: https://pierrebachas.weebly.com/
 
-"Bilicka":
+"bilicka":
   - firstname: ["Katarzyna"]
     url: https://www.katarzynabilicka.com/
 
-"Brambilla":
+"brambilla":
   - firstname: ["Irene"]
     url: https://sites.google.com/site/irenebrambilla/
 
-"Brockmeyer":
+"brockmeyer":
   - firstname: ["Anne"]
     url: https://www.annebrockmeyer.com/
 
-"Falcone":
+"falcone":
   - firstname: ["Guillermo"]
     url: https://ideas.repec.org/f/pfa1298.html
 
-"Finamor":
+"feinmann":
+  - firstname: ["Javier"]
+    url: https://javierfeinmann.github.io/JavierFeinmann/
+
+"finamor":
   - firstname: ["Lucas"]
     url: https://economics.yale.edu/people/lucas-finamor
 
-"Franco":
+"franco":
   - firstname: ["Ana Paula"]
     url: https://www.apfrancocarruitero.com/
 
-"Gonzalez-Prieto":
+"gonzalez-prieto":
   - firstname: ["Nathalie"]
     url: https://sites.google.com/view/nathalie-gonzalez-prieto/
 
-"Lauletta":
+"hsu rocha":
+  - firstname: ["Roberto"]
+    url: https://sites.google.com/view/robertohsurocha/home
+
+"lauletta":
   - firstname: ["Maximiliano"]
     url: https://sites.google.com/view/lauletta/
 
-"Maloney":
+"maloney":
   - firstname: ["William F.", "William"]
     url: https://www.worldbank.org/en/about/people/w/william-f-maloney
 
-"Morales Lema":
+"morales lema":
   - firstname: ["Raul", "Raúl"]
     url: https://www.raul-morales.com/
 
-"Scot":
+"scot":
   - firstname: ["Thiago"]
     url: https://sites.google.com/view/thiagoscot/
 
-"Seegert":
+"seegert":
   - firstname: ["Nathan"]
     url: https://nathanseegert.com/
 
-"Semelet":
+"semelet":
   - firstname: ["Camille"]
     url: https://camillesemelet.github.io/
 
-"Tortarolo":
+"tortarolo":
   - firstname: ["Dario", "Darío"]
     url: https://economics.dtortarolo.com.ar/
 
-"Vuletin":
+"vilarouca nunes":
+  - firstname: ["Rafael"]
+    url: https://sites.google.com/view/rafael-vilarouca-nunes/home
+
+"vuletin":
   - firstname: ["Guillermo"]
     url: https://www.brookings.edu/people/guillermo-vuletin/
