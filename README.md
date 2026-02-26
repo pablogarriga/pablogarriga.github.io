@@ -123,3 +123,29 @@ File: `/Users/pablo/github/pablogarriga.github.io/_layouts/bib.liquid`
 - Thumbnail column changed from `col-sm-2` to `col-sm-3`
 - Text column changed from `col-sm-8` to `col-sm-9`
 - Figure size hint changed from `sizes = "200px"` to `sizes = "280px"`
+
+### 6) Support multiple blog posts (Array Style)
+
+File: `/layouts/bib.liquid`
+
+To support multiple blog buttons with custom labels for a single publication, modify the blog button logic to parse a semicolon-separated list.
+
+1. Update the Liquid Code: Replace the existing blog block (around line 214) with:
+```
+{% if entry.blog %}
+  {% assign blog_links = entry.blog | split: ";" %}
+  {% for link_pair in blog_links %}
+    {% assign parts = link_pair | split: "," %}
+    {% assign b_name = parts[0] | strip %}
+    {% assign b_url = parts[1] | strip %}
+    <a href="{{ b_url }}" class="btn btn-sm z-depth-0" role="button">{{ b_name }}</a>
+  {% endfor %}
+{% endif %}
+```
+2. Update your BibTeX: In your `papers.bib`, format the blog field using the pattern `Label, URL` separated by semicolons:
+```
+@article{key,
+  title={My Research Paper},
+  blog={Technical Blog, https://link1.com; Summary Post, https://link2.com},
+}
+```
