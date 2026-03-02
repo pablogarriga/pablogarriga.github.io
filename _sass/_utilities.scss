@@ -444,6 +444,12 @@ nav[data-toggle="toc"] {
   z-index: 999;
 }
 
+.medium-zoom-image--opened {
+  max-width: calc(100vw - 48px);
+  max-height: calc(100vh - 48px);
+  object-fit: contain;
+}
+
 #toc-sidebar {
   z-index: 1;
 }
