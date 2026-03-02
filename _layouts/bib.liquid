@@ -199,7 +199,11 @@
         <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">Publication</a>
       {% endif %}
       {% if entry.working_paper %}
-        <a href="{{ entry.working_paper }}" class="btn btn-sm z-depth-0" role="button">Working Paper</a>
+        {% if entry.working_paper contains '://' %}
+          <a href="{{ entry.working_paper }}" class="btn btn-sm z-depth-0" role="button">Working Paper</a>
+        {% else %}
+          <a href="{{ entry.working_paper | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Working Paper</a>
+        {% endif %}
       {% endif %}
       {% if entry.slides %}
         {% if entry.slides contains '://' %}
