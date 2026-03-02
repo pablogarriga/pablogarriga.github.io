@@ -24,7 +24,7 @@
   }
 
   h2.bibliography {
-    color: var(--global-divider-color);
+    color: var(--global-text-color);
     border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
     margin-top: 2rem;
@@ -59,11 +59,6 @@
               text-decoration: none;
             }
           }
-        }
-
-        .award {
-          color: var(--global-theme-color) !important;
-          border: 1px solid var(--global-theme-color);
         }
       }
 
@@ -112,9 +107,6 @@
             color: var(--global-theme-color);
             border-color: var(--global-theme-color);
           }
-        }
-        a.award.btn {
-          border-color: var(--global-highlight-color);
         }
       }
 
@@ -177,7 +169,7 @@
       border: dashed 1px var(--global-bg-color);
     }
     div.award.hidden.open {
-      border-color: var(--global-highlight-color);
+      border-color: var(--global-text-color);
     }
   }
 }
