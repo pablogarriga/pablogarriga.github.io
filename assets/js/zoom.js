@@ -1,1 +1,1 @@
-$(document).ready(function(){medium_zoom=mediumZoom("[data-zoomable]",{background:getComputedStyle(document.documentElement).getPropertyValue("--global-bg-color")+"ee",margin:24})});
+$(document).ready(function(){const e=24+(document.querySelector("#navbar")?.offsetHeight??0);document.documentElement.style.setProperty("--medium-zoom-safe-space",2*e+"px"),medium_zoom=mediumZoom("[data-zoomable]",{background:getComputedStyle(document.documentElement).getPropertyValue("--global-bg-color")+"ee",margin:e})});
