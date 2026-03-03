@@ -446,7 +446,7 @@ nav[data-toggle="toc"] {
 
 .medium-zoom-image--opened {
   max-width: calc(100vw - 48px);
-  max-height: calc(100vh - 48px);
+  max-height: calc(100vh - var(--medium-zoom-safe-space, 48px));
   object-fit: contain;
 }
 
