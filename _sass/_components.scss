@@ -91,6 +91,28 @@ ul.task-list input[type="checkbox"] {
 }
 
 @media (max-width: 575.98px) {
+  .about-page {
+    margin-top: -1.8rem;
+  }
+
+  .about-page .post-header {
+    margin-bottom: 0.6rem;
+  }
+
+  .about-page .post-title {
+    font-size: 2.9rem;
+    line-height: 1.05;
+    margin-bottom: 0.35rem;
+  }
+
+  .about-page article {
+    font-size: 1.02rem;
+  }
+
+  .about-page p {
+    margin-bottom: 0.7rem;
+  }
+
   .about-intro {
     display: flex;
     flex-direction: column;
@@ -103,8 +125,38 @@ ul.task-list input[type="checkbox"] {
   .about-intro .profile {
     order: 2;
     float: none !important;
-    width: 55%;
-    margin: 0.75rem auto 1rem auto;
+    width: 36%;
+    margin: 0.5rem auto 0.6rem auto;
+  }
+
+  .about-page .social .contact-icons {
+    font-size: 2.1rem;
+  }
+
+  .about-page .social .contact-icons a img {
+    width: 1.75rem;
+    height: 1.75rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .about-page .social .contact-icons a svg {
+    width: 1.9rem;
+    height: 2.2rem;
+    margin-bottom: 0.35rem;
+  }
+
+  .about-page .social .contact-icons a svg image {
+    width: 1.9rem;
+    height: 1.9rem;
+  }
+
+  footer.fixed-bottom {
+    font-size: 0.62rem;
+  }
+
+  footer.fixed-bottom .container {
+    padding-top: 6px;
+    padding-bottom: 5px;
   }
 }
 
