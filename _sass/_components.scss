@@ -90,6 +90,24 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+@media (max-width: 575.98px) {
+  .about-intro {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .about-intro .about-content {
+    order: 1;
+  }
+
+  .about-intro .profile {
+    order: 2;
+    float: none !important;
+    width: 55%;
+    margin: 0.75rem auto 1rem auto;
+  }
+}
+
 // CV
 
 .cv {
