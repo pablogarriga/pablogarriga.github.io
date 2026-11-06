@@ -7,6 +7,7 @@
 body {
   padding-bottom: 70px;
   font-size: 1.1rem;
+  line-height: 1.65;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
 
@@ -18,6 +19,14 @@ body {
   h6 {
     scroll-margin-top: 66px;
   }
+}
+
+.post-header {
+  margin-bottom: 1.4rem;
+}
+
+.post-title {
+  line-height: 1.05;
 }
 
 body.fixed-top-nav {

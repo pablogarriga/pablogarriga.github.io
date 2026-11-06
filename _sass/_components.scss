@@ -55,6 +55,58 @@ ul.task-list input[type="checkbox"] {
 
 // Profile
 
+.page-lead {
+  color: var(--global-text-color);
+  font-size: 1.16rem;
+  line-height: 1.65;
+  margin-bottom: 1.6rem;
+  max-width: 48rem;
+}
+
+.about-cv-link {
+  display: flex;
+  margin: 1.25rem 0 1.75rem;
+
+  a {
+    border: 1px solid var(--global-divider-color);
+    border-radius: 6px;
+    color: var(--global-text-color);
+    font-size: 0.88rem;
+    font-weight: 600;
+    line-height: 1;
+    padding: 0.5rem 0.7rem;
+    text-decoration: none;
+
+    &:hover {
+      border-color: var(--global-theme-color);
+      color: var(--global-theme-color);
+      text-decoration: none;
+    }
+  }
+}
+
+.cv-summary {
+  border-bottom: 1px solid var(--global-divider-color);
+  margin-bottom: 1.25rem;
+  padding-bottom: 1.25rem;
+
+  p {
+    font-size: 1.05rem;
+    margin-bottom: 0.75rem;
+    max-width: 48rem;
+  }
+
+  .btn {
+    border: 1px solid var(--global-theme-color);
+    color: var(--global-theme-color);
+
+    &:hover {
+      background: var(--global-theme-color);
+      color: var(--global-hover-text-color);
+    }
+  }
+}
+
 .profile {
   width: 100%;
 

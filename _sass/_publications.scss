@@ -28,7 +28,7 @@
     border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
     margin-top: 2rem;
-    text-align: right;
+    text-align: left;
   }
 
   ol.bibliography {
@@ -37,10 +37,16 @@
     margin-top: 0;
 
     li {
+      background: var(--global-card-bg-color);
+      border: 1px solid var(--global-divider-color);
+      border-radius: 8px;
       margin-bottom: 1rem;
+      padding: 1rem;
 
       .preview {
         display: block;
+        max-height: 210px;
+        object-fit: contain;
         width: 100%;
       }
 
@@ -64,7 +70,10 @@
       }
 
       .title {
-        font-weight: bolder;
+        font-size: 1.06rem;
+        font-weight: 700;
+        line-height: 1.35;
+        margin-bottom: 0.2rem;
       }
 
       .author {
@@ -95,20 +104,34 @@
       }
 
       .links {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.4rem;
+        margin-top: 0.65rem;
+
         a.btn {
           color: var(--global-text-color);
           border: 1px solid var(--global-text-color);
+          border-radius: 6px;
+          font-weight: 600;
+          margin-left: 0;
           padding-left: 1rem;
           padding-right: 1rem;
           padding-top: 0.25rem;
           padding-bottom: 0.25rem;
-          margin-left: 0;
 
           &:hover {
             color: var(--global-theme-color);
             border-color: var(--global-theme-color);
           }
         }
+      }
+
+      .paper-summary {
+        color: var(--global-text-color);
+        font-size: 0.96rem;
+        line-height: 1.48;
+        margin-top: 0.4rem;
       }
 
       .badges {

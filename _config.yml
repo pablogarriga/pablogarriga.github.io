@@ -323,6 +323,7 @@ filtered_bibtex_keywords:
     hal,
     html,
     inspirehep_id,
+    one_liner,
     pdf,
     pmid,
     poster,
@@ -330,6 +331,7 @@ filtered_bibtex_keywords:
     selected,
     slides,
     supp,
+    topic,
     video,
     website,
   ]
