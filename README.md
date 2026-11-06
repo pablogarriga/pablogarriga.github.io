@@ -131,6 +131,7 @@ File: `/layouts/bib.liquid`
 To support multiple blog buttons with custom labels for a single publication, modify the blog button logic to parse a semicolon-separated list.
 
 1. Update the Liquid Code: Replace the existing blog block (around line 214) with:
+
 ```
 {% if entry.blog %}
   {% assign blog_links = entry.blog | split: ";" %}
@@ -142,7 +143,9 @@ To support multiple blog buttons with custom labels for a single publication, mo
   {% endfor %}
 {% endif %}
 ```
+
 2. Update your BibTeX: In your `papers.bib`, format the blog field using the pattern `Label, URL` separated by semicolons:
+
 ```
 @article{key,
   title={My Research Paper},
