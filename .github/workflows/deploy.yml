@@ -88,11 +88,16 @@ jobs:
           valueFile: "_config.yml"
           propertyPath: "giscus.repo"
           value: ${{ github.repository }}
-      - name: Install and Build 🔧
+      - name: Install ImageMagick 🔧
         run: |
-          sudo apt-get update && sudo apt-get install -y imagemagick
-          pip3 install --upgrade nbconvert
-          export JEKYLL_ENV=production
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends imagemagick
+      - name: Install notebook dependencies 📓
+        run: pip3 install --upgrade nbconvert
+      - name: Build site 🏗️
+        env:
+          JEKYLL_ENV: production
+        run: |
           bundle exec jekyll build
       - name: Purge unused CSS 🧹
         run: |
