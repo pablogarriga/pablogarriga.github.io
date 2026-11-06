@@ -32,6 +32,7 @@ jobs:
         env:
           ALL_CHANGED_FILES: ${{ steps.changed-files.outputs.all_changed_files }}
         run: |
+          npm ci
           curl https://raw.githubusercontent.com/george-gca/github-markdown-toc/main/gh-md-toc -o gh-md-toc
           chmod a+x gh-md-toc
           for file in ${ALL_CHANGED_FILES}; do
@@ -39,7 +40,8 @@ jobs:
             if [[ "$file" != *.md ]]; then
               continue
             fi
-            ./gh-md-toc --indent 2 --insert --no-backup --hide-footer $file
+            ./gh-md-toc --indent 2 --insert --no-backup --hide-footer "$file"
+            npx prettier "$file" --write
           done
           rm gh-md-toc
 
