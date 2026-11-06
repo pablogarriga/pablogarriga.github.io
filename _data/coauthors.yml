@@ -2,9 +2,37 @@
   - firstname: ["Facundo"]
     url: https://sites.google.com/view/facundoalbornoz/
 
+"agostini":
+  - firstname: ["Claudio A.", "Claudio"]
+    url: https://www.nber.org/people/claudio_agostini
+
+"araujo":
+  - firstname: ["Jorge Thompson"]
+    url: https://blogs.worldbank.org/en/team/j/jorge-thompson-araujo
+
+"asatryan":
+  - firstname: ["Zareh"]
+    url: https://sites.google.com/view/asatryan/home
+
+"bach":
+  - firstname: ["Laurent"]
+    url: https://faculty.essec.edu/en/cv/en-bach-laurent/
+
 "bachas":
   - firstname: ["Pierre"]
     url: https://pierrebachas.weebly.com/
+
+"bernier":
+  - firstname: ["Govindadeva"]
+    url: https://www.pbo-dpb.ca/en/staff--equipe/govindadeva-bernier
+
+"bertanha":
+  - firstname: ["Marinho"]
+    url: https://kellogg.nd.edu/marinho-bertanha
+
+"beylis":
+  - firstname: ["Guillermo"]
+    url: https://blogs.worldbank.org/en/team/g/guillermo-beylis
 
 "bilicka":
   - firstname: ["Katarzyna"]
@@ -17,6 +45,14 @@
 "brockmeyer":
   - firstname: ["Anne"]
     url: https://www.annebrockmeyer.com/
+
+"bukovina":
+  - firstname: ["Jaroslav"]
+    url: https://ideas.repec.org/f/pbu564.html
+
+"cesar":
+  - firstname: ["Andrés", "Andres"]
+    url: https://econpapers.repec.org/RAS/pcs29.htm
 
 "falcone":
   - firstname: ["Guillermo"]
@@ -38,21 +74,65 @@
   - firstname: ["Nathalie"]
     url: https://sites.google.com/view/nathalie-gonzalez-prieto/
 
+"he":
+  - firstname: ["Yuxuan"]
+    url: https://www.nber.org/people/yuxuan_he
+
 "hsu rocha":
   - firstname: ["Roberto"]
     url: https://sites.google.com/view/robertohsurocha/home
+
+"jansky":
+  - firstname: ["Petr"]
+    url: https://petrjansky.cz/
+
+"jooste":
+  - firstname: ["Charl"]
+    url: https://econpapers.repec.org/RAS/pjo317.htm
+
+"koumanakos":
+  - firstname: ["Evangelos"]
+    url: https://www.eap.gr/wp-content/uploads/2024/03/Evangelos-Koumanakos.pdf
 
 "lauletta":
   - firstname: ["Maximiliano"]
     url: https://sites.google.com/view/lauletta/
 
+"lichard":
+  - firstname: ["Tomas", "Tomáš"]
+    url: https://tlichard.github.io/
+
 "maloney":
   - firstname: ["William F.", "William"]
     url: https://www.worldbank.org/en/about/people/w/william-f-maloney
 
+"melendez":
+  - firstname: ["Marcela"]
+    url: https://www.worldbank.org/en/about/people/m/marcela-mel-ndez
+
 "morales lema":
   - firstname: ["Raul", "Raúl"]
     url: https://www.raul-morales.com/
+
+"palguta":
+  - firstname: ["Jan", "Ján"]
+    url: https://sites.google.com/site/janpalguta/home
+
+"patel":
+  - firstname: ["Elena"]
+    url: https://eccles.utah.edu/team/elena-patel/
+
+"pereira dos santos":
+  - firstname: ["Joao", "João"]
+    url: https://novalaw.unl.pt/joao-pereira-dos-santos/
+
+"perrault":
+  - firstname: ["Louis"]
+    url: https://www.pbo-dpb.ca/en/staff--equipe/louis-perrault
+
+"sampi":
+  - firstname: ["James"]
+    url: https://blogs.worldbank.org/en/team/j/james-sampi
 
 "scot":
   - firstname: ["Thiago"]
@@ -66,6 +146,18 @@
   - firstname: ["Camille"]
     url: https://camillesemelet.github.io/
 
+"skultety":
+  - firstname: ["Oliver"]
+    url: https://profile.fsv.cuni.cz/files/cv/cv2025-2-68af17a71cbc2170537188.pdf
+
+"strohmaier":
+  - firstname: ["Kristina"]
+    url: https://www.kristina-strohmaier.de/
+
+"todtenhaupt":
+  - firstname: ["Maximilian"]
+    url: https://www.fiwi.uni-hannover.de/todtenhaupt
+
 "tortarolo":
   - firstname: ["Dario", "Darío"]
     url: https://economics.dtortarolo.com.ar/
@@ -74,6 +166,18 @@
   - firstname: ["Rafael"]
     url: https://sites.google.com/view/rafael-vilarouca-nunes/home
 
+"vostroknutova":
+  - firstname: ["Ekaterina"]
+    url: https://blogs.worldbank.org/en/team/k/katia-vostroknutova
+
 "vuletin":
   - firstname: ["Guillermo"]
     url: https://www.brookings.edu/people/guillermo-vuletin/
+
+"zambrano":
+  - firstname: ["Jorge Andres", "Andres"]
+    url: https://ideas.repec.org/e/pza56.html
+
+"zudel":
+  - firstname: ["Branislav"]
+    url: https://cepr.org/about/people/branislav-zudel
